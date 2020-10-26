@@ -12,6 +12,7 @@ To play, run wildlife_test.py. Capitalization does not matter for answers. You c
 
 # To Do
 - Center the widgets on the window and make sure they remain centered if window is resized
+- Display the name of species when Skip is pressed so you can learn the name of the species you didn't know
 - Add species categories (e.g. birds, reptiles, mammals, etc.)
 - Add a start page with options the user can change before beginning the game
   - Add an option for the user to change the number of images they are tested on (currently it tests all the images so if there are 300 you will have to go through all 300 to      reach the end)
