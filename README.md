@@ -1,7 +1,7 @@
 # Wildlife-Test
 Simple program with a GUI that tests your knowledge of identifying species. Inspired by a course I took in university where I had to learn to identify species but forgot most of them. Currently, only bird species found in Ontario are available in the Images directory.
 
-I'm also using this to learn and play around with repositories.
+I'm also using this to learn and play around with repositories. You can contribute to this if you happen to stumble upon it. If you're a beginner, this should be a good project for you to contribute to.
 
 # How It Works
 Images are saved in the "Images" directory with each species having its own subdirectory. The program determines the name of the species based on the name of the subdirectory where the images are contained so make sure to double check the spelling of the name. 
