@@ -1,5 +1,5 @@
 # Wildlife-Test
-Simple program with a GUI that tests your knowledge of identifying species. Inspired by a course I took in university where I had to learn to identify species but forgot most of them. Currently, only bird species found in Ontario are available in the Images directory.
+Simple Python program with a GUI built using tkinter that tests your knowledge of identifying species. Inspired by a course I took in university where I had to learn to identify species but forgot most of them. Currently, only bird species found in Ontario are available in the Images directory.
 
 I'm also using this to learn and play around with repositories. You can contribute to this if you happen to stumble upon it. If you're a beginner, this should be a good project for you to contribute to.
 
