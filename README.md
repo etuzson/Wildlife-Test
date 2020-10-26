@@ -8,6 +8,7 @@ To play, run wildlife_test.py. Capitalization does not matter for answers. You c
 
 # Known Issues
 - The test ends 1 too early (e.g. if there are 9 images in total then it will end on 8 and show your score out of 8).
+- download_species_images.py is broken due to the package, google_images_download, being broken
 
 # To Do
 - Center the widgets on the window and make sure they remain centered if window is resized
@@ -15,4 +16,4 @@ To play, run wildlife_test.py. Capitalization does not matter for answers. You c
 - Add a start page with options the user can change before beginning the game
   - Add an option for the user to change the number of images they are tested on (currently it tests all the images so if there are 300 you will have to go through all 300 to      reach the end)
   - Once species categories are added, add an option to let the user choose what category they are tested on (dropdown list of all available categories)
-  
+- Fix download_species_images.py to be able to automate downloading images
