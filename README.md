@@ -1,10 +1,10 @@
 # Wildlife-Test
-Simple Python program with a GUI built using tkinter that tests your knowledge of identifying species. Inspired by a course I took in university where I had to learn to identify species but forgot most of them. Currently, only bird species found in Ontario are available in the Images directory.
+It is simple Python program with a GUI built using tkinter that tests your knowledge of identifying species. Inspired by a course I took in the university where I learnt to identify species but forgot most of them. Currently, bird species found in Ontario are available in the Images directory.
 
 I'm also using this to learn and play around with repositories. You can contribute to this if you happen to stumble upon it. If you're a beginner, this should be a good project for you to contribute to.
 
 # How It Works
-Images are saved in the "Images" directory with each species having its own subdirectory. The program determines the name of the species based on the name of the subdirectory where the images are contained so make sure to double check the spelling of the name. 
+Images are saved in the "Images" directory with each species having its own subdirectory. The program determines the name of the species based on the name of the subdirectory where the images are contained, so make sure to double check the spelling of the name. 
 
 To play, run wildlife_test.py. Capitalization does not matter for answers. You can also use the Up Arrow and Down Arrow keys to go through your previously submitted answers (if the same species shows up twice in a row let's say, then you can press Up Arrow instead of typing its name all over again).
 
@@ -13,7 +13,7 @@ To play, run wildlife_test.py. Capitalization does not matter for answers. You c
 - download_species_images.py is broken due to the package, google_images_download, being broken
 
 # To Do
-- Center the widgets on the window and make sure they remain centered if window is resized
+- Center the widgets on the window and make sure they remain centered if window is resized.
 - Display the name of species when Skip is pressed so you can learn the name of the species you didn't know
 - Add species categories (e.g. birds, reptiles, mammals, etc.)
 - Add a start page with options the user can change before beginning the game
